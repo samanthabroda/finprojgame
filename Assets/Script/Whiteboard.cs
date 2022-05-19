@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Code from this cs file is inspired and reused from: https://youtu.be/sHE5ubsP-E8 
+
 public class Whiteboard : MonoBehaviour
 {
 
